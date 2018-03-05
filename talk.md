@@ -84,6 +84,11 @@ Source: [Family Resources Survey 2015/16](https://www.gov.uk/government/statisti
 * Being able to navigate with a keyboard
 * That copy is understandable without thought
 * Things can be zoomed to 200%
+* Images have descriptive or an empty alt attribute
+* Headings are in hierarchical order
+* Browser page titles are unique and descriptive
+* Forms correctly labelled with "for" and "id" attributes
+* Page has language defined through 'lang' attribute
 
 ---
 
@@ -106,6 +111,9 @@ Adds some semantic labels to interactive elements.
 
 * [WAVE Chrome Plugin](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 * VoiceOver (on OS X)
+* NVDA screen reader for Windows (https://www.nvaccess.org/download/)
+* Accessibility color contrast test (http://gmazzocato.altervista.org/colorwheel/wheel.php)
+* Other tools on this website (https://www.w3.org/WAI/ER/tools/)
 
 ---
 <!-- *footer: https://giphy.com/gifs/studiosoriginals-gilphabet-xTiN0IuPQxRqzxodZm -->
