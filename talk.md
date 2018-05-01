@@ -54,6 +54,20 @@ Source: [Family Resources Survey 2015/16](https://www.gov.uk/government/statisti
 ---
 <!-- *footer: http://destroywritersblock.blogspot.com/2015/03/beating-academic-block-part-2-of.html -->
 
+> Your service must be accessible to everyone who needs it. If it isnâ€™t, you may be in breach of the Equality Act 2010.
+
+>This means you need to start thinking about how users might access and use your service before you design or build anything.
+
+>Accessibility isnâ€™t the responsibility of just one person. Everyone on your team is responsible for making sure your service is accessible.
+
+More Hows and Whys on Accessibility on gov uk link below
+
+<cite>https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction</cite>
+
+
+---
+
+
 # Let's get down to business
 
 ![bg](images/mulan.jpeg)
@@ -62,9 +76,10 @@ Source: [Family Resources Survey 2015/16](https://www.gov.uk/government/statisti
 
 # How we should "do" accessibility
 
-1. Follow a process <small>(we have a spreadsheet based on WCAG AA scoring)</small>
-2. Start it early <small>(don't try and layer it on after code has been created)</small>
-3. Repeat it often <small>(each PR should be reviewed for accessibility)</small>
+1. Use the design system
+2. Follow a process <small>(we have a spreadsheet based on WCAG AA scoring)</small>
+3. Start it early <small>(don't try and layer it on after code has been created)</small>
+4. Repeat it often <small>(each PR should be reviewed for accessibility)</small>
 
 
 ---
@@ -113,6 +128,7 @@ Adds some semantic labels to interactive elements.
 * VoiceOver (on OS X)
 * NVDA screen reader for Windows (https://www.nvaccess.org/download/)
 * Accessibility color contrast test (http://gmazzocato.altervista.org/colorwheel/wheel.php)
+* The Accessibility Engine for automated testing of HTML-based user interfaces. (https://axe-core.org/)
 * Other tools on this website (https://www.w3.org/WAI/ER/tools/)
 
 ---
@@ -130,3 +146,4 @@ Adds some semantic labels to interactive elements.
 * [How people with disabilities use the web](https://www.w3.org/WAI/intro/people-use-web/Overview)
 * [Microsoft's Inclusive Design Guide](https://www.microsoft.com/en-us/design/inclusive)
 * [Great list of A11Y resources](https://a11yproject.com/resources.html)
+* [Gov.uk Accessibility requirements and how to at different phases ie Aplha, Beta, Live](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) 
