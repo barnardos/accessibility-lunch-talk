@@ -62,7 +62,7 @@ Source: [Family Resources Survey 2015/16](https://www.gov.uk/government/statisti
 
 # How we should "do" accessibility
 
-0. Use the design system
+0. Use the design system <small>(it follows good accessibility practice)</small>
 1. Follow a process <small>(we have a spreadsheet based on WCAG AA scoring)</small>
 2. Start it early <small>(don't try and layer it on after code has been created)</small>
 3. Repeat it often <small>(each PR should be reviewed for accessibility)</small>
