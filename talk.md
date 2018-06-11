@@ -76,11 +76,10 @@ More Hows and Whys on Accessibility on gov uk link below
 
 # How we should "do" accessibility
 
-1. Use the design system
+1. Use the design system <small>(it follows good accessibility practice)</small>
 2. Follow a process <small>(we have a spreadsheet based on WCAG AA scoring)</small>
 3. Start it early <small>(don't try and layer it on after code has been created)</small>
 4. Repeat it often <small>(each PR should be reviewed for accessibility)</small>
-
 
 ---
 
